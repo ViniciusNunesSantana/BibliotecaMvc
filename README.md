@@ -8,6 +8,8 @@ Sistema web de cadastro e listagem de livros desenvolvido com ASP.NET Core MVC.
 
 \## Tecnologias
 
+
+
 \- C# / .NET 8
 
 \- ASP.NET Core MVC
@@ -22,6 +24,8 @@ Sistema web de cadastro e listagem de livros desenvolvido com ASP.NET Core MVC.
 
 \## Funcionalidades
 
+
+
 \- Cadastro de livros
 
 \- Listagem de livros
@@ -29,6 +33,8 @@ Sistema web de cadastro e listagem de livros desenvolvido com ASP.NET Core MVC.
 
 
 \## Como rodar
+
+
 
 1\. Clone o repositório
 
